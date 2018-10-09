@@ -5,6 +5,10 @@
 			{
 				"appID": "GBUUR5CCD3.com.letteral.test.deeplinkingtest",
 				"paths": [ "*"]
+			},
+						{
+				"appID": "C4CSD9PGGH.io.moia.PassengerApp",
+				"paths": [ "*"]
 			}
 		]
 	}
